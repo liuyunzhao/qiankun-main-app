@@ -45,6 +45,7 @@ registerMicroApps([
   //   container: '#zi',
   //   activeRule: '/zi'
   // }
+
 ])
 
 start()
